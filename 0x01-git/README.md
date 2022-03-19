@@ -1,1 +1,1 @@
-updated reame
+updated readme
